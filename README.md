@@ -1,0 +1,2 @@
+# map
+ go map example
